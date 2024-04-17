@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "functions": {
+    "/signup": {},
+    "/reset-password": {},
+    "/signin": {},
+    "/": {}
+  }
+}

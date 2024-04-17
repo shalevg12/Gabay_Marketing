@@ -28,7 +28,7 @@ export default function Zigzag() {
             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-left">
               <div className="md:pl-4 lg:pl-12 xl:pl-16">
                 <div className="font-architects-daughter text-xl text-purple-600 mb-2">More speed. Less spend</div>
-                <h3 className="h3 mb-3">הסיפור של גבאי'ז שיווק ופרסום</h3>
+                <h3 className="h3 mb-3">הסיפור שלנו</h3>
                 <p className="text-xl text-gray-400 mb-4">גבאי'ז שיווק ופרסום היא סוכנות מובילה לבניית אסטרטגיית פרסום דיגיטלי, המלווה עסקים שלא מתפשרים על סטנדרט ושואפים גבוה. המטרה שלנו היא אחת – לתכנן ולבצע קמפיינים רווחיים בשילוב שיטה ייעודית המייצרת ׳סיסטם׳ של לידים איכותיים באופן קבוע.</p>
                 <ul className="text-lg text-gray-400 -mb-2">
                   <li className="flex items-center mb-2">
